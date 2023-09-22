@@ -18,13 +18,15 @@
           required
           class="login-input"
           id="username" 
-          name="username" placeholder="username..." >
+          name="username" 
+          placeholder="username..." >
           <label class="login-input">Please enter password</label>
           <input 
           required
           class="login-input"
           id="password" 
-          name="password" placeholder="password...">
+          name="password" 
+          placeholder="password...">
           <div class="submit-container">
             <input
             class="submit-btn"
