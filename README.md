@@ -1,1 +1,2 @@
-# This project is intended as a practice exercise in git versioning as well as basic backend/frontend
+# Untitled Project
+This project is intended as an exercise using git versioning as well as php backend and basic front end
