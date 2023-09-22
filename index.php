@@ -15,13 +15,13 @@
         <div class="flex-input-container">
           <label class="login-input" >Please enter username</label>
           <input 
-          required 
+          
           class="login-input"
           id="username" 
           name="username" placeholder="username..." >
           <label class="login-input">Please enter password</label>
           <input 
-          required 
+          
           class="login-input"
           id="password" 
           name="password" placeholder="password...">
